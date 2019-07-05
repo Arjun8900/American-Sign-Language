@@ -6,3 +6,6 @@ Code written as a part of project for Neural Network taught by G Srinivasaraghav
 Data Collected through webcam,
 Concept of image subtraction,
 CNN using Keras
+
+Youtube Link of the implemetation
+https://youtu.be/NBzqY9tJd7M
